@@ -1,5 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# todo lo ue no se va a cargar en el repo.
 # dependencies
 /node_modules
 /.pnp
