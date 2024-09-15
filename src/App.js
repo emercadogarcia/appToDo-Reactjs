@@ -6,10 +6,11 @@ import { TodoList } from './TodoList';
 import { TodoItem } from './TodoItem';
 import { CreateTodoButton } from './CreateTodoButton'
 import './App.css';
+import React from 'react';
 
 function App() {
   return (
-    <div className="App">
+    <React.Fragment>
       <TodoCounter completed={15} total={25}/>
       <TodoSearch />
 
@@ -21,7 +22,7 @@ function App() {
 
     <CreateTodoButton /> 
 
-    </div>
+    </React.Fragment>
   );
 }
 
