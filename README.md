@@ -1,4 +1,4 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Repositorio base de registro de Tareas tipo ToDo
 
 ¡Hola, gracias por visitar mi repo!
 
