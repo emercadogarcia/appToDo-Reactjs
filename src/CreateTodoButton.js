@@ -1,9 +1,8 @@
-function CreaateTodoButton() {
+function CreateTodoButton () {
     return (
-        <h1>
-            Button creaate
-        </h1>
+        
+        <button>+ Nuevo</button>
     );
   }
 
-export { CreaateTodoButton };
+export { CreateTodoButton };
